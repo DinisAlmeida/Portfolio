@@ -4,8 +4,8 @@ For this assessment, I followed some of the components we studied in class this 
 
 ## First Component - Sightseeing Form
 I have created this component as one of those website popups for signing up to the website's eventual topic. I used an image from unsplash and searched for a mountain icon to fill in some of the empty space. I opted for a simplistic design with a very fine and one of my favourite's font "Lato".
-![Form](lay1.png)
-![Form](lay2.png)
+![Image](lay1.png)
+![Image](lay2.png)
 
 ## Second Component - Alert Message
 I used an app as a base of the design approach to this alert message, again I used Lato as a font and I chose to only have white and black in the alert to follow the aps design.
